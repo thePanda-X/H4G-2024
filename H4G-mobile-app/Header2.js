@@ -68,7 +68,7 @@ const Header2 = ({ name, filterMethod }) => {
                     <Animated.Image source={lupa} style={[styles.sideImage2, animatedImageStyle]} />
                     < Animated.View style={[styles.textWrapper, animatedTextStyle]}>
                         {textInputShown && <TextInput style={styles.textStyle}
-                            onBlur={() => { setTextInputShown(false) }}
+                            onBlur={() => { setTextInputShown(false); filterMethod(""); }}
                             ref={textInput}
                             placeholder="Buscar..."
                             onChangeText={(text) => { filterMethod(text) }}

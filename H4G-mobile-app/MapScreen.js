@@ -30,6 +30,10 @@ const SearchComponent = () => {
         } else {
             setFilteredComponents(loadedComponents);
         }
+
+        if(text === ''){
+            setFilteredComponents(loadedComponents);
+        }
     };
 
     return (

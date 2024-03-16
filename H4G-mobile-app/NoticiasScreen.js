@@ -32,9 +32,14 @@ export default function NoticiasScreen() {
         } else {
             setFilteredComponents(loadedComponents);
         }
+
+        if(text === ''){
+            setFilteredComponents(loadedComponents);
+        }
     };
 
     return (
+    
         <View style={StyleNoticias.container}>
             <Header2 name={"Noticias"} filterMethod={searchFilter} />
             <ScrollView>
