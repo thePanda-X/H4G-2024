@@ -88,12 +88,12 @@
 
 ## ANÁLISIS DE MERCADO
 
-*  ¿Es un mercado en expansión o en decadencia? 
- totalmente en expansión.
-* ¿Es un sector concentrado o fragmentado?
-  fragmentado (distintos servicios de emergencia y no hay aseguradores centralizadas).
-* ¿Existen factores que pueden afectar a la actual estructura de mercado de forma considerable?
- Al tratarse de técnologias innovadoras no debería verse afectado. Ya que esta en plena expansión.
+> *  ¿Es un mercado en expansión o en decadencia? 
+>> totalmente en expansión.
+> * ¿Es un sector concentrado o fragmentado?
+ >> fragmentado (distintos servicios de emergencia y no hay aseguradores centralizadas).
+> * ¿Existen factores que pueden afectar a la actual estructura de mercado de forma considerable?
+>>  Al tratarse de técnologias innovadoras no debería verse afectado. Ya que esta en plena expansión.
 
 
  ## MERCADO POTENCIAL
@@ -103,3 +103,20 @@
 - [x] Perdidas económicas
 
 ### ¿De que forma han satisfecho esas necesitades actualmente?
+* Descarga de varias apps.
+* Depender de las noticias y RRSS para informarse.
+
+## ÁNALISIS DE LA COMPETENCIA
+
+|   | Prekaos | geoXP | Alpify | sismo detector |
+| ------------- | ------------- |  ------------- | ------------- | ------------- |
+| Branding  | :white_check_mark:  | :x: | :white_check_mark: |  :x: |
+| Accesibilidad  | :white_check_mark:  | :x: | :white_check_mark: |  :x: |
+| Uso de la IA | :white_check_mark:  | :x: | :x: |  :x: |
+| Predicción a medio plazo | :white_check_mark: en 3 tiempos | :x: | :x: |  :x: |
+| Recopilación de datos propios  | :white_check_mark: usando IoT  | :white_check_mark: mediante software especializado |  :x: |  :x: |
+| Curva de aprendizaje  | :white_check_mark: intuitiva  | :x: | :white_check_mark: intuitiva |  :x: |
+
+
+
+
